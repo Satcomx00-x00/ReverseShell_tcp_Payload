@@ -3,3 +3,5 @@ embed : ``` https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69
 
 sources:
 ```https://medium.com/forensicitguy/making-meterpreter-look-google-signed-using-msi-jar-files-c0a7970ff8b7```
+
+https://www.hackingarticles.in/get-reverse-shell-via-windows-one-liner/
